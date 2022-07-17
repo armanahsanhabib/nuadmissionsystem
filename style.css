@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100;300;400;500;600;700;800&display=swap');
+
+.font-bn {
+    font-family: 'Noto Serif Bengali', serif;
+}
+
+.logo img {
+    height: 150px;
+}
+
+.btn-group .btn {
+    text-transform: uppercase;
+} 
+
+.bg-blue-300 {
+    background: url(img/Lovepik_com-500436299-banner-background.jpg);
+    background-size: contain;
+    background-position: bottom; 
+} 
+
+a {
+    text-decoration: none; 
+}
